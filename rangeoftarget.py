@@ -18,6 +18,6 @@ class Solution:
         
         
         
-num = [1,3,5,7,8]
+num = [1,3,5,7,9,11]
 a = Solution()
 print(f'The First and Last postion of the target element is: \n{a.searchRange(num, 7)}')
